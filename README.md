@@ -6,8 +6,8 @@ This repository contains code supporting the text "Projecting quarantine utiliza
 ## R
 
 * Projecting quarantine utilization over a 10 day window: getQuarPred.R
-* Figure 1 (a) in the supplemental material: fig1a_supplemental.R
-* Figure 1 (b) in the supplemental material: fig1b_supplemental.R
+* Figure 3 (a): fig3a.R
+* Figure 3 (b): fig3b.R
 
 ## Python
 
